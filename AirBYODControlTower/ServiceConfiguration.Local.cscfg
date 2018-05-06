@@ -4,6 +4,7 @@
     <Instances count="1" />
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="controltower_AzureStorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=controltower;AccountKey=Ehal+pLp6GK9DevpwJ7vLCz9ynczPJlSaAwlZK2xfreSA9Yf9vQmkFCg2xa93n+uTZ+nGcGk/ZBiMUJmxrBrxA==;EndpointSuffix=core.windows.net" />
     </ConfigurationSettings>
   </Role>
   <Role name="WebRole2">
